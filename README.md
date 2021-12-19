@@ -48,8 +48,8 @@ SHOEPRO는 스니커즈를 최상의 컨디션으로 오랫동안 신고, <br />
 | 이종석 | Back-end | [<img src="https://img.shields.io/badge/codingPathFinder-5294E2?style=for-the-badge&logo=GitHub&logoColor=white"/>](https://github.com/codingPathFinder) |
 
 ## ℹ️ More Info
-1. 기간
+1. 프로젝트를 진행했던 기간은 어떻게 되나요?
 * Front-end: 2021/09/23 ~ 2021/11/26 - (2개월)
 * Back-end: 2021/08/02 ~ 2021/11/26 - (4개월)
-2. 후기
-* 업데이트 예정입니다.
+2. 소스 파일은 왜 없나요?
+* 개발했던 코드는 회사의 소유이기 때문에, 가지고 있지 않습니다.
